@@ -1,7 +1,16 @@
 <?php if ( ! defined('BASEPATH')) exit('No direct script access allowed');
 
 class Task extends CI_Controller {
-
+	
+	public function __construct(){
+            parent::__construct();
+            // Your own constructor code
+			if(!$this->session->userdata('login_state')) {
+				redirect('login');
+			}
+			
+    }
+	   
 	function index(){
 	
        if($this->session->userdata('login_state')) {
