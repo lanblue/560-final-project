@@ -7,13 +7,20 @@ Use CodeIgniter Framework, Twitter Bootstrap, Some Ajax, Javascript Code.
 
 To test it on your own server: 1) Load the testproject.sql 2) Change Application/config/config confirguration as following:
 
+```
 $config['base_url'] = 'http://localhost/testproject/';
+```
+
 3) Change Application/config/database configuration as following:
 
+```
    $db['default']['hostname'] = 'localhost';
    $db['default']['username'] = 'yourdatabaseusernamehere';
    $db['default']['password'] = 'yourdatabasepasswordhere';
    $db['default']['database'] = 'testproject';
+```
+
 For your convience, you can use the following sample account to test: Email:leiw414@gmail.com Password: nihaoma
 
-You can find our web application by the link http://fiteveryone.com/finalproject. Enjoy
+If you do not want to use it on your own server, you can find our web application by the following link as well http://fiteveryone.com/finalproject. 
+Enjoy
