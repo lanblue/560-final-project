@@ -23,4 +23,5 @@ $config['base_url'] = 'http://localhost/testproject/';
 For your convience, you can use the following sample account to test: Email:leiw414@gmail.com Password: nihaoma
 
 If you do not want to use it on your own server, you can find our web application by the following link as well http://fiteveryone.com/finalproject. 
+For further details and the procedure of our work, please view the google doc https://docs.google.com/document/d/1cUfWDferXzbvc3v3htN4CHr4EBl_C49jVVQurM39rcU/edit
 Enjoy
