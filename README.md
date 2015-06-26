@@ -22,7 +22,6 @@ $config['base_url'] = 'http://localhost/testproject/';
 
 For your convience, you can use the following sample account to test: Email:leiw414@gmail.com Password: nihaoma
 
-For further details and the procedure of our work, please view the google doc https://docs.google.com/document/d/1cUfWDferXzbvc3v3htN4CHr4EBl_C49jVVQurM39rcU/edit
 Enjoy
 
  Chunxi Zhang
